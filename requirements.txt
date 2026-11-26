@@ -27,5 +27,5 @@ rouge_score
 benepar
 spacy
 peft==0.2.0
-deepspeed==0.9.5
+deepspeed==0.15.1
 tiktoken
